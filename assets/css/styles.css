@@ -286,6 +286,10 @@ a{
     background-color: #fff;
 }
 
+.link{
+    color:#000;
+}
+
 .heart{
     color: red;
 }
