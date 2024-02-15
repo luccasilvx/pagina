@@ -306,6 +306,10 @@ a{
         overflow: hidden;/*tudo que ultrapassar será escondido*/
         position: fixed;/*sempre será fixado*/
     }
+    nav a:hover{
+        transition: 0.7s;  
+        color:#333;
+    }
     .espacamento-apresentacao{
         padding: 5rem 2rem 0 2rem;
         font-size: 0.8rem;
